@@ -1,6 +1,6 @@
-name,___,dependence,alpha-2,alpha-3,country-code,iso_3166-2,region,sub-region,region-code,sub-region-code
+name,中文名,dependence,alpha-2,alpha-3,country-code,iso_3166-2,region,sub-region,region-code,sub-region-code
 Afghanistan,___,independent,AF,AFG,4,ISO 3166-2:AF,Asia,Southern Asia,142,34
-��land Islands,____,Finland,AX,ALA,248,ISO 3166-2:AX,Europe,Northern Europe,150,154
+ÌÉland Islands,____,Finland,AX,ALA,248,ISO 3166-2:AX,Europe,Northern Europe,150,154
 Albania,_____,independent,AL,ALB,8,ISO 3166-2:AL,Europe,Southern Europe,150,39
 Algeria,_____,independent,DZ,DZA,12,ISO 3166-2:DZ,Africa,Northern Africa,2,15
 American Samoa,_____,USA,AS,ASM,16,ISO 3166-2:AS,Oceania,Polynesia,9,61
@@ -53,10 +53,10 @@ Congo,__,independent,CG,COG,178,ISO 3166-2:CG,Africa,Middle Africa,2,17
 Congo (Democratic Republic of the),_________,independent,CD,COD,180,ISO 3166-2:CD,Africa,Middle Africa,2,17
 Cook Islands,____,New Zealand,CK,COK,184,ISO 3166-2:CK,Oceania,Polynesia,9,61
 Costa Rica,_____,independent,CR,CRI,188,ISO 3166-2:CR,Americas,Central America,19,13
-C̫te d'Ivoire,____,independent,CI,CIV,384,ISO 3166-2:CI,Africa,Western Africa,2,11
+CÌ«te d'Ivoire,____,independent,CI,CIV,384,ISO 3166-2:CI,Africa,Western Africa,2,11
 Croatia,____,independent,HR,HRV,191,ISO 3166-2:HR,Europe,Southern Europe,150,39
 Cuba,__,independent,CU,CUB,192,ISO 3166-2:CU,Americas,Caribbean,19,29
-Cura̤ao,___,Netherlands,CW,CUW,531,ISO 3166-2:CW,Americas,Caribbean,19,29
+CuraÌ¤ao,___,Netherlands,CW,CUW,531,ISO 3166-2:CW,Americas,Caribbean,19,29
 Cyprus,____,independent,CY,CYP,196,ISO 3166-2:CY,Asia,Western Asia,142,145
 Czech Republic,_____,independent,CZ,CZE,203,ISO 3166-2:CZ,Europe,Eastern Europe,150,151
 Denmark,__,independent,DK,DNK,208,ISO 3166-2:DK,Europe,Northern Europe,150,154
@@ -179,11 +179,11 @@ Poland,__,independent,PL,POL,616,ISO 3166-2:PL,Europe,Eastern Europe,150,151
 Portugal,___,independent,PT,PRT,620,ISO 3166-2:PT,Europe,Southern Europe,150,39
 Puerto Rico,____,USA,PR,PRI,630,ISO 3166-2:PR,Americas,Caribbean,19,29
 Qatar,___,independent,QA,QAT,634,ISO 3166-2:QA,Asia,Western Asia,142,145
-R̩union,___,France,RE,REU,638,ISO 3166-2:RE,Africa,Eastern Africa,2,14
+RÌ©union,___,France,RE,REU,638,ISO 3166-2:RE,Africa,Eastern Africa,2,14
 Romania,____,independent,RO,ROU,642,ISO 3166-2:RO,Europe,Eastern Europe,150,151
 Russian Federation,___,independent,RU,RUS,643,ISO 3166-2:RU,Europe,Eastern Europe,150,151
 Rwanda,___,independent,RW,RWA,646,ISO 3166-2:RW,Africa,Eastern Africa,2,14
-Saint Barth̩lemy,_____,France,BL,BLM,652,ISO 3166-2:BL,Americas,Caribbean,19,29
+Saint BarthÌ©lemy,_____,France,BL,BLM,652,ISO 3166-2:BL,Americas,Caribbean,19,29
 "Saint Helena, Ascension and Tristan da Cunha",_____________-____,UK,SH,SHN,654,ISO 3166-2:SH,Africa,Western Africa,2,11
 Saint Kitts and Nevis,_______,independent,KN,KNA,659,ISO 3166-2:KN,Americas,Caribbean,19,29
 Saint Lucia,____,independent,LC,LCA,662,ISO 3166-2:LC,Americas,Caribbean,19,29
