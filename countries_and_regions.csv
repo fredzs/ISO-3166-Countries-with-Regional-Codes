@@ -66,49 +66,49 @@ Dominican Republic,多米尼加共和国,independent,DO,DOM,214,ISO 3166-2:DO,Am
 Ecuador,厄瓜多尔,independent,EC,ECU,218,ISO 3166-2:EC,Americas,South America,19,5
 Egypt,埃及,independent,EG,EGY,818,ISO 3166-2:EG,Africa,Northern Africa,2,15
 El Salvador,萨尔瓦多,independent,SV,SLV,222,ISO 3166-2:SV,Americas,Central America,19,13
-Equatorial Guinea,_____,independent,GQ,GNQ,226,ISO 3166-2:GQ,Africa,Middle Africa,2,17
-Eritrea,_____,independent,ER,ERI,232,ISO 3166-2:ER,Africa,Eastern Africa,2,14
-Estonia,____,independent,EE,EST,233,ISO 3166-2:EE,Europe,Northern Europe,150,154
-Ethiopia,_____,independent,ET,ETH,231,ISO 3166-2:ET,Africa,Eastern Africa,2,14
-Falkland Islands (Malvinas),_____,UK,FK,FLK,238,ISO 3166-2:FK,Americas,South America,19,5
-Faroe Islands,____,Denmark,FO,FRO,234,ISO 3166-2:FO,Europe,Northern Europe,150,154
-Fiji,__,independent,FJ,FJI,242,ISO 3166-2:FJ,Oceania,Melanesia,9,54
-Finland,__,independent,FI,FIN,246,ISO 3166-2:FI,Europe,Northern Europe,150,154
-France,__,independent,FR,FRA,250,ISO 3166-2:FR,Europe,Western Europe,150,155
-French Guiana,_____,France,GF,GUF,254,ISO 3166-2:GF,Americas,South America,19,5
-French Polynesia,_______,France,PF,PYF,258,ISO 3166-2:PF,Oceania,Polynesia,9,61
-French Southern Territories,______,France,TF,ATF,260,ISO 3166-2:TF,,,,
-Gabon,__,independent,GA,GAB,266,ISO 3166-2:GA,Africa,Middle Africa,2,17
-Gambia,___,independent,GM,GMB,270,ISO 3166-2:GM,Africa,Western Africa,2,11
-Georgia,____,independent,GE,GEO,268,ISO 3166-2:GE,Asia,Western Asia,142,145
-Germany,__,independent,DE,DEU,276,ISO 3166-2:DE,Europe,Western Europe,150,155
-Ghana,__,independent,GH,GHA,288,ISO 3166-2:GH,Africa,Western Africa,2,11
-Gibraltar,____,UK,GI,GIB,292,ISO 3166-2:GI,Europe,Southern Europe,150,39
-Greece,__,independent,GR,GRC,300,ISO 3166-2:GR,Europe,Southern Europe,150,39
-Greenland,___,Denmark,GL,GRL,304,ISO 3166-2:GL,Americas,Northern America,19,21
-Grenada,____,independent,GD,GRD,308,ISO 3166-2:GD,Americas,Caribbean,19,29
-Guadeloupe,____,France,GP,GLP,312,ISO 3166-2:GP,Americas,Caribbean,19,29
-Guam,__,USA,GU,GUM,316,ISO 3166-2:GU,Oceania,Micronesia,9,57
-Guatemala,____,independent,GT,GTM,320,ISO 3166-2:GT,Americas,Central America,19,13
-Guernsey,___,UK,GG,GGY,831,ISO 3166-2:GG,Europe,Northern Europe,150,154
-Guinea,___,independent,GN,GIN,324,ISO 3166-2:GN,Africa,Western Africa,2,11
-Guinea-Bissau,_____,independent,GW,GNB,624,ISO 3166-2:GW,Africa,Western Africa,2,11
-Guyana,___,independent,GY,GUY,328,ISO 3166-2:GY,Americas,South America,19,5
-Haiti,__,independent,HT,HTI,332,ISO 3166-2:HT,Americas,Caribbean,19,29
-Heard Island and McDonald Islands,_________,Australia,HM,HMD,334,ISO 3166-2:HM,,,,
-Holy See,___,independent,VA,VAT,336,ISO 3166-2:VA,Europe,Southern Europe,150,39
-Honduras,____,independent,HN,HND,340,ISO 3166-2:HN,Americas,Central America,19,13
-Hong Kong,__,China,HK,HKG,344,ISO 3166-2:HK,Asia,Eastern Asia,142,30
-Hungary,___,independent,HU,HUN,348,ISO 3166-2:HU,Europe,Eastern Europe,150,151
-Iceland,__,independent,IS,ISL,352,ISO 3166-2:IS,Europe,Northern Europe,150,154
-India,__,independent,IN,IND,356,ISO 3166-2:IN,Asia,Southern Asia,142,34
-Indonesia,_____,independent,ID,IDN,360,ISO 3166-2:ID,Asia,South-Eastern Asia,142,35
-Iran (Islamic Republic of),__,independent,IR,IRN,364,ISO 3166-2:IR,Asia,Southern Asia,142,34
-Iraq,___,independent,IQ,IRQ,368,ISO 3166-2:IQ,Asia,Western Asia,142,145
-Ireland,___ ,independent,IE,IRL,372,ISO 3166-2:IE,Europe,Northern Europe,150,154
-Isle of Man,___,UK,IM,IMN,833,ISO 3166-2:IM,Europe,Northern Europe,150,154
-Israel,___,independent,IL,ISR,376,ISO 3166-2:IL,Asia,Western Asia,142,145
-Italy,___,independent,IT,ITA,380,ISO 3166-2:IT,Europe,Southern Europe,150,39
+Equatorial Guinea,赤道几内亚,independent,GQ,GNQ,226,ISO 3166-2:GQ,Africa,Middle Africa,2,17
+Eritrea,厄立特里亚,independent,ER,ERI,232,ISO 3166-2:ER,Africa,Eastern Africa,2,14
+Estonia,爱沙尼亚,independent,EE,EST,233,ISO 3166-2:EE,Europe,Northern Europe,150,154
+Ethiopia,埃塞俄比亚,independent,ET,ETH,231,ISO 3166-2:ET,Africa,Eastern Africa,2,14
+Falkland Islands (Malvinas),福克兰群岛（马尔维纳斯群岛）,UK,FK,FLK,238,ISO 3166-2:FK,Americas,South America,19,5
+Faroe Islands,法罗群岛,Denmark,FO,FRO,234,ISO 3166-2:FO,Europe,Northern Europe,150,154
+Fiji,斐济,independent,FJ,FJI,242,ISO 3166-2:FJ,Oceania,Melanesia,9,54
+Finland,芬兰,independent,FI,FIN,246,ISO 3166-2:FI,Europe,Northern Europe,150,154
+France,法国,independent,FR,FRA,250,ISO 3166-2:FR,Europe,Western Europe,150,155
+French Guiana,法属圭亚那,France,GF,GUF,254,ISO 3166-2:GF,Americas,South America,19,5
+French Polynesia,法属波利尼西亚,France,PF,PYF,258,ISO 3166-2:PF,Oceania,Polynesia,9,61
+French Southern Territories,法属南部领地,France,TF,ATF,260,ISO 3166-2:TF,,,,
+Gabon,加蓬,independent,GA,GAB,266,ISO 3166-2:GA,Africa,Middle Africa,2,17
+Gambia,冈比亚,independent,GM,GMB,270,ISO 3166-2:GM,Africa,Western Africa,2,11
+Georgia,格鲁吉亚,independent,GE,GEO,268,ISO 3166-2:GE,Asia,Western Asia,142,145
+Germany,德国,independent,DE,DEU,276,ISO 3166-2:DE,Europe,Western Europe,150,155
+Ghana,加纳,independent,GH,GHA,288,ISO 3166-2:GH,Africa,Western Africa,2,11
+Gibraltar,直布罗陀,UK,GI,GIB,292,ISO 3166-2:GI,Europe,Southern Europe,150,39
+Greece,希腊,independent,GR,GRC,300,ISO 3166-2:GR,Europe,Southern Europe,150,39
+Greenland,格陵兰,Denmark,GL,GRL,304,ISO 3166-2:GL,Americas,Northern America,19,21
+Grenada,格林纳达,independent,GD,GRD,308,ISO 3166-2:GD,Americas,Caribbean,19,29
+Guadeloupe,瓜德罗普岛,France,GP,GLP,312,ISO 3166-2:GP,Americas,Caribbean,19,29
+Guam,关岛,USA,GU,GUM,316,ISO 3166-2:GU,Oceania,Micronesia,9,57
+Guatemala,危地马拉,independent,GT,GTM,320,ISO 3166-2:GT,Americas,Central America,19,13
+Guernsey,根西岛,UK,GG,GGY,831,ISO 3166-2:GG,Europe,Northern Europe,150,154
+Guinea,几内亚,independent,GN,GIN,324,ISO 3166-2:GN,Africa,Western Africa,2,11
+Guinea-Bissau,几内亚比绍,independent,GW,GNB,624,ISO 3166-2:GW,Africa,Western Africa,2,11
+Guyana,圭亚那,independent,GY,GUY,328,ISO 3166-2:GY,Americas,South America,19,5
+Haiti,海地,independent,HT,HTI,332,ISO 3166-2:HT,Americas,Caribbean,19,29
+Heard Island and McDonald Islands,赫德岛和麦当劳群岛,Australia,HM,HMD,334,ISO 3166-2:HM,,,,
+Holy See,圣座（梵蒂冈）,independent,VA,VAT,336,ISO 3166-2:VA,Europe,Southern Europe,150,39
+Honduras,洪都拉斯,independent,HN,HND,340,ISO 3166-2:HN,Americas,Central America,19,13
+Hong Kong,香港,China,HK,HKG,344,ISO 3166-2:HK,Asia,Eastern Asia,142,30
+Hungary,匈牙利,independent,HU,HUN,348,ISO 3166-2:HU,Europe,Eastern Europe,150,151
+Iceland,冰岛,independent,IS,ISL,352,ISO 3166-2:IS,Europe,Northern Europe,150,154
+India,印度,independent,IN,IND,356,ISO 3166-2:IN,Asia,Southern Asia,142,34
+Indonesia,印度尼西亚,independent,ID,IDN,360,ISO 3166-2:ID,Asia,South-Eastern Asia,142,35
+Iran (Islamic Republic of),伊朗,independent,IR,IRN,364,ISO 3166-2:IR,Asia,Southern Asia,142,34
+Iraq,伊拉克,independent,IQ,IRQ,368,ISO 3166-2:IQ,Asia,Western Asia,142,145
+Ireland,爱尔兰,independent,IE,IRL,372,ISO 3166-2:IE,Europe,Northern Europe,150,154
+Isle of Man,马恩岛,UK,IM,IMN,833,ISO 3166-2:IM,Europe,Northern Europe,150,154
+Israel,以色列,independent,IL,ISR,376,ISO 3166-2:IL,Asia,Western Asia,142,145
+Italy,意大利,independent,IT,ITA,380,ISO 3166-2:IT,Europe,Southern Europe,150,39
 Jamaica,___,independent,JM,JAM,388,ISO 3166-2:JM,Americas,Caribbean,19,29
 Japan,__,independent,JP,JPN,392,ISO 3166-2:JP,Asia,Eastern Asia,142,30
 Jersey,___,UK,JE,JEY,832,ISO 3166-2:JE,Europe,Northern Europe,150,154
