@@ -1,71 +1,71 @@
 name,中文名,dependence,alpha-2,alpha-3,country-code,iso_3166-2,region,sub-region,region-code,sub-region-code
-Afghanistan,___,independent,AF,AFG,4,ISO 3166-2:AF,Asia,Southern Asia,142,34
-ÌÉland Islands,____,Finland,AX,ALA,248,ISO 3166-2:AX,Europe,Northern Europe,150,154
-Albania,_____,independent,AL,ALB,8,ISO 3166-2:AL,Europe,Southern Europe,150,39
-Algeria,_____,independent,DZ,DZA,12,ISO 3166-2:DZ,Africa,Northern Africa,2,15
-American Samoa,_____,USA,AS,ASM,16,ISO 3166-2:AS,Oceania,Polynesia,9,61
-Andorra,___,independent,AD,AND,20,ISO 3166-2:AD,Europe,Southern Europe,150,39
-Angola,___,independent,AO,AGO,24,ISO 3166-2:AO,Africa,Middle Africa,2,17
-Anguilla,___,UK,AI,AIA,660,ISO 3166-2:AI,Americas,Caribbean,19,29
-Antarctica,__,-,AQ,ATA,10,ISO 3166-2:AQ,,,,
-Antigua and Barbuda,_______,independent,AG,ATG,28,ISO 3166-2:AG,Americas,Caribbean,19,29
-Argentina,___,independent,AR,ARG,32,ISO 3166-2:AR,Americas,South America,19,5
-Armenia,____,independent,AM,ARM,51,ISO 3166-2:AM,Asia,Western Asia,142,145
-Aruba,___,Netherlands,AW,ABW,533,ISO 3166-2:AW,Americas,Caribbean,19,29
-Australia,____,independent,AU,AUS,36,ISO 3166-2:AU,Oceania,Australia and New Zealand,9,53
-Austria,___,independent,AT,AUT,40,ISO 3166-2:AT,Europe,Western Europe,150,155
-Azerbaijan,____,independent,AZ,AZE,31,ISO 3166-2:AZ,Asia,Western Asia,142,145
-Bahamas,___,independent,BS,BHS,44,ISO 3166-2:BS,Americas,Caribbean,19,29
-Bahrain,__,independent,BH,BHR,48,ISO 3166-2:BH,Asia,Western Asia,142,145
-Bangladesh,___,independent,BD,BGD,50,ISO 3166-2:BD,Asia,Southern Asia,142,34
-Barbados,____,independent,BB,BRB,52,ISO 3166-2:BB,Americas,Caribbean,19,29
-Belarus,____,independent,BY,BLR,112,ISO 3166-2:BY,Europe,Eastern Europe,150,151
-Belgium,___,independent,BE,BEL,56,ISO 3166-2:BE,Europe,Western Europe,150,155
-Belize,___,independent,BZ,BLZ,84,ISO 3166-2:BZ,Americas,Central America,19,13
-Benin,__,independent,BJ,BEN,204,ISO 3166-2:BJ,Africa,Western Africa,2,11
-Bermuda,___,UK,BM,BMU,60,ISO 3166-2:BM,Americas,Northern America,19,21
-Bhutan,__,independent,BT,BTN,64,ISO 3166-2:BT,Asia,Southern Asia,142,34
-Bolivia (Plurinational State of),____,independent,BO,BOL,68,ISO 3166-2:BO,Americas,South America,19,5
-"Bonaire, Sint Eustatius and Saba",______________________,Netherlands,BQ,BES,535,ISO 3166-2:BQ,Americas,Caribbean,19,29
-Bosnia and Herzegovina,__,independent,BA,BIH,70,ISO 3166-2:BA,Europe,Southern Europe,150,39
-Botswana,____,independent,BW,BWA,72,ISO 3166-2:BW,Africa,Southern Africa,2,18
-Bouvet Island,___,Norway,BV,BVT,74,ISO 3166-2:BV,,,,
-Brazil,__,independent,BR,BRA,76,ISO 3166-2:BR,Americas,South America,19,5
-British Indian Ocean Territory,_______,UK,IO,IOT,86,ISO 3166-2:IO,,,,
-Brunei Darussalam,_______,independent,BN,BRN,96,ISO 3166-2:BN,Asia,South-Eastern Asia,142,35
-Bulgaria,____,independent,BG,BGR,100,ISO 3166-2:BG,Europe,Eastern Europe,150,151
-Burkina Faso,_____,independent,BF,BFA,854,ISO 3166-2:BF,Africa,Western Africa,2,11
-Burundi,___,independent,BI,BDI,108,ISO 3166-2:BI,Africa,Eastern Africa,2,14
-Cambodia,___,independent,KH,KHM,116,ISO 3166-2:KH,Asia,South-Eastern Asia,142,35
-Cameroon,___,independent,CM,CMR,120,ISO 3166-2:CM,Africa,Middle Africa,2,17
-Canada,___,independent,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,19,21
-Cabo Verde,___,independent,CV,CPV,132,ISO 3166-2:CV,Africa,Western Africa,2,11
-Cayman Islands,____,UK,KY,CYM,136,ISO 3166-2:KY,Americas,Caribbean,19,29
-Central African Republic,_____,independent,CF,CAF,140,ISO 3166-2:CF,Africa,Middle Africa,2,17
-Chad,__,independent,TD,TCD,148,ISO 3166-2:TD,Africa,Middle Africa,2,17
-Chile,__,independent,CL,CHL,152,ISO 3166-2:CL,Americas,South America,19,5
-China,__,independent,CN,CHN,156,ISO 3166-2:CN,Asia,Eastern Asia,142,30
-Christmas Island,___,Australia,CX,CXR,162,ISO 3166-2:CX,,,,
-Cocos (Keeling) Islands,_____,Australia,CC,CCK,166,ISO 3166-2:CC,,,,
-Colombia,____,independent,CO,COL,170,ISO 3166-2:CO,Americas,South America,19,5
-Comoros,___,independent,KM,COM,174,ISO 3166-2:KM,Africa,Eastern Africa,2,14
-Congo,__,independent,CG,COG,178,ISO 3166-2:CG,Africa,Middle Africa,2,17
-Congo (Democratic Republic of the),_________,independent,CD,COD,180,ISO 3166-2:CD,Africa,Middle Africa,2,17
-Cook Islands,____,New Zealand,CK,COK,184,ISO 3166-2:CK,Oceania,Polynesia,9,61
-Costa Rica,_____,independent,CR,CRI,188,ISO 3166-2:CR,Americas,Central America,19,13
-CÌ«te d'Ivoire,____,independent,CI,CIV,384,ISO 3166-2:CI,Africa,Western Africa,2,11
-Croatia,____,independent,HR,HRV,191,ISO 3166-2:HR,Europe,Southern Europe,150,39
-Cuba,__,independent,CU,CUB,192,ISO 3166-2:CU,Americas,Caribbean,19,29
-CuraÌ¤ao,___,Netherlands,CW,CUW,531,ISO 3166-2:CW,Americas,Caribbean,19,29
-Cyprus,____,independent,CY,CYP,196,ISO 3166-2:CY,Asia,Western Asia,142,145
-Czech Republic,_____,independent,CZ,CZE,203,ISO 3166-2:CZ,Europe,Eastern Europe,150,151
-Denmark,__,independent,DK,DNK,208,ISO 3166-2:DK,Europe,Northern Europe,150,154
-Djibouti,___,independent,DJ,DJI,262,ISO 3166-2:DJ,Africa,Eastern Africa,2,14
-Dominica,____,independent,DM,DMA,212,ISO 3166-2:DM,Americas,Caribbean,19,29
-Dominican Republic,_______,independent,DO,DOM,214,ISO 3166-2:DO,Americas,Caribbean,19,29
-Ecuador,____,independent,EC,ECU,218,ISO 3166-2:EC,Americas,South America,19,5
-Egypt,__,independent,EG,EGY,818,ISO 3166-2:EG,Africa,Northern Africa,2,15
-El Salvador,____,independent,SV,SLV,222,ISO 3166-2:SV,Americas,Central America,19,13
+Afghanistan,阿富汗,independent,AF,AFG,4,ISO 3166-2:AF,Asia,Southern Asia,142,34
+Åland Islands,奥兰群岛,Finland,AX,ALA,248,ISO 3166-2:AX,Europe,Northern Europe,150,154
+Albania,阿尔巴尼亚,independent,AL,ALB,8,ISO 3166-2:AL,Europe,Southern Europe,150,39
+Algeria,阿尔及利亚,independent,DZ,DZA,12,ISO 3166-2:DZ,Africa,Northern Africa,2,15
+American Samoa,美属萨摩亚,USA,AS,ASM,16,ISO 3166-2:AS,Oceania,Polynesia,9,61
+Andorra,安道尔,independent,AD,AND,20,ISO 3166-2:AD,Europe,Southern Europe,150,39
+Angola,安哥拉,independent,AO,AGO,24,ISO 3166-2:AO,Africa,Middle Africa,2,17
+Anguilla,安圭拉,UK,AI,AIA,660,ISO 3166-2:AI,Americas,Caribbean,19,29
+Antarctica,南极,-,AQ,ATA,10,ISO 3166-2:AQ,,,,
+Antigua and Barbuda,安提瓜和巴布达,independent,AG,ATG,28,ISO 3166-2:AG,Americas,Caribbean,19,29
+Argentina,阿根廷,independent,AR,ARG,32,ISO 3166-2:AR,Americas,South America,19,5
+Armenia,亚美尼亚,independent,AM,ARM,51,ISO 3166-2:AM,Asia,Western Asia,142,145
+Aruba,阿鲁巴,Netherlands,AW,ABW,533,ISO 3166-2:AW,Americas,Caribbean,19,29
+Australia,澳大利亚,independent,AU,AUS,36,ISO 3166-2:AU,Oceania,Australia and New Zealand,9,53
+Austria,奥地利,independent,AT,AUT,40,ISO 3166-2:AT,Europe,Western Europe,150,155
+Azerbaijan,阿塞拜疆,independent,AZ,AZE,31,ISO 3166-2:AZ,Asia,Western Asia,142,145
+Bahamas,巴哈马,independent,BS,BHS,44,ISO 3166-2:BS,Americas,Caribbean,19,29
+Bahrain,巴林,independent,BH,BHR,48,ISO 3166-2:BH,Asia,Western Asia,142,145
+Bangladesh,孟加拉,independent,BD,BGD,50,ISO 3166-2:BD,Asia,Southern Asia,142,34
+Barbados,巴巴多斯,independent,BB,BRB,52,ISO 3166-2:BB,Americas,Caribbean,19,29
+Belarus,白俄罗斯,independent,BY,BLR,112,ISO 3166-2:BY,Europe,Eastern Europe,150,151
+Belgium,比利时,independent,BE,BEL,56,ISO 3166-2:BE,Europe,Western Europe,150,155
+Belize,伯利兹,independent,BZ,BLZ,84,ISO 3166-2:BZ,Americas,Central America,19,13
+Benin,贝宁,independent,BJ,BEN,204,ISO 3166-2:BJ,Africa,Western Africa,2,11
+Bermuda,百慕大,UK,BM,BMU,60,ISO 3166-2:BM,Americas,Northern America,19,21
+Bhutan,不丹,independent,BT,BTN,64,ISO 3166-2:BT,Asia,Southern Asia,142,34
+Bolivia (Plurinational State of),玻利维亚,independent,BO,BOL,68,ISO 3166-2:BO,Americas,South America,19,5
+"Bonaire, Sint Eustatius and Saba",博奈尔，圣尤斯特歇斯与萨巴（加勒比荷兰）,Netherlands,BQ,BES,535,ISO 3166-2:BQ,Americas,Caribbean,19,29
+Bosnia and Herzegovina,波黑,independent,BA,BIH,70,ISO 3166-2:BA,Europe,Southern Europe,150,39
+Botswana,博茨瓦纳,independent,BW,BWA,72,ISO 3166-2:BW,Africa,Southern Africa,2,18
+Bouvet Island,布维岛,Norway,BV,BVT,74,ISO 3166-2:BV,,,,
+Brazil,巴西,independent,BR,BRA,76,ISO 3166-2:BR,Americas,South America,19,5
+British Indian Ocean Territory,英属印度洋领地,UK,IO,IOT,86,ISO 3166-2:IO,,,,
+Brunei Darussalam,文莱,independent,BN,BRN,96,ISO 3166-2:BN,Asia,South-Eastern Asia,142,35
+Bulgaria,保加利亚,independent,BG,BGR,100,ISO 3166-2:BG,Europe,Eastern Europe,150,151
+Burkina Faso,布基纳法索,independent,BF,BFA,854,ISO 3166-2:BF,Africa,Western Africa,2,11
+Burundi,布隆迪,independent,BI,BDI,108,ISO 3166-2:BI,Africa,Eastern Africa,2,14
+Cambodia,柬埔寨,independent,KH,KHM,116,ISO 3166-2:KH,Asia,South-Eastern Asia,142,35
+Cameroon,喀麦隆,independent,CM,CMR,120,ISO 3166-2:CM,Africa,Middle Africa,2,17
+Canada,加拿大,independent,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,19,21
+Cabo Verde,佛得角,independent,CV,CPV,132,ISO 3166-2:CV,Africa,Western Africa,2,11
+Cayman Islands,开曼群岛,UK,KY,CYM,136,ISO 3166-2:KY,Americas,Caribbean,19,29
+Central African Republic,中非共和国,independent,CF,CAF,140,ISO 3166-2:CF,Africa,Middle Africa,2,17
+Chad,乍得,independent,TD,TCD,148,ISO 3166-2:TD,Africa,Middle Africa,2,17
+Chile,智利,independent,CL,CHL,152,ISO 3166-2:CL,Americas,South America,19,5
+China,中国,independent,CN,CHN,156,ISO 3166-2:CN,Asia,Eastern Asia,142,30
+Christmas Island,圣诞岛,Australia,CX,CXR,162,ISO 3166-2:CX,,,,
+Cocos (Keeling) Islands,科科斯（基林）群岛,Australia,CC,CCK,166,ISO 3166-2:CC,,,,
+Colombia,哥伦比亚,independent,CO,COL,170,ISO 3166-2:CO,Americas,South America,19,5
+Comoros,科摩罗,independent,KM,COM,174,ISO 3166-2:KM,Africa,Eastern Africa,2,14
+Congo,刚果,independent,CG,COG,178,ISO 3166-2:CG,Africa,Middle Africa,2,17
+Congo (Democratic Republic of the),刚果（民主共和国）,independent,CD,COD,180,ISO 3166-2:CD,Africa,Middle Africa,2,17
+Cook Islands,库克群岛,New Zealand,CK,COK,184,ISO 3166-2:CK,Oceania,Polynesia,9,61
+Costa Rica,哥斯达黎加,independent,CR,CRI,188,ISO 3166-2:CR,Americas,Central America,19,13
+Côte d'Ivoire,科特迪瓦,independent,CI,CIV,384,ISO 3166-2:CI,Africa,Western Africa,2,11
+Croatia,克罗地亚,independent,HR,HRV,191,ISO 3166-2:HR,Europe,Southern Europe,150,39
+Cuba,古巴,independent,CU,CUB,192,ISO 3166-2:CU,Americas,Caribbean,19,29
+Curaçao,库拉索,Netherlands,CW,CUW,531,ISO 3166-2:CW,Americas,Caribbean,19,29
+Cyprus,塞浦路斯,independent,CY,CYP,196,ISO 3166-2:CY,Asia,Western Asia,142,145
+Czech Republic,捷克共和国,independent,CZ,CZE,203,ISO 3166-2:CZ,Europe,Eastern Europe,150,151
+Denmark,丹麦,independent,DK,DNK,208,ISO 3166-2:DK,Europe,Northern Europe,150,154
+Djibouti,吉布提,independent,DJ,DJI,262,ISO 3166-2:DJ,Africa,Eastern Africa,2,14
+Dominica,多米尼克,independent,DM,DMA,212,ISO 3166-2:DM,Americas,Caribbean,19,29
+Dominican Republic,多米尼加共和国,independent,DO,DOM,214,ISO 3166-2:DO,Americas,Caribbean,19,29
+Ecuador,厄瓜多尔,independent,EC,ECU,218,ISO 3166-2:EC,Americas,South America,19,5
+Egypt,埃及,independent,EG,EGY,818,ISO 3166-2:EG,Africa,Northern Africa,2,15
+El Salvador,萨尔瓦多,independent,SV,SLV,222,ISO 3166-2:SV,Americas,Central America,19,13
 Equatorial Guinea,_____,independent,GQ,GNQ,226,ISO 3166-2:GQ,Africa,Middle Africa,2,17
 Eritrea,_____,independent,ER,ERI,232,ISO 3166-2:ER,Africa,Eastern Africa,2,14
 Estonia,____,independent,EE,EST,233,ISO 3166-2:EE,Europe,Northern Europe,150,154
